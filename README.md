@@ -1,6 +1,9 @@
 # 🧬 Cervical Cancer Detection
 Leukemia Cell Classification in Pap Smear Images Using Traditional Computer Vision & Deep Learning Techniques
 
+Download the IEEE report here: [Report.pdf](https://github.com/user-attachments/files/19782847/Report.pdf)
+
+
 ## 📌 Overview
 This project focuses on the automated detection of leukemia cells in cervical pap smear images using a blend of traditional computer vision techniques and deep learning models. It presents a comparative analysis of multiple preprocessing, feature extraction, and classification approaches to assess their impact on detection accuracy.
 
